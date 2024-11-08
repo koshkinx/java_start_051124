@@ -1,0 +1,9 @@
+package homework_lesson2;
+
+public class Gerona {
+	double sideA = 0.3;
+	double sideB = 0.4;
+	double sideC = 0.5;
+	double p = (sideA+sideB+sideC) / 2;
+	System.out.println(p);
+}
