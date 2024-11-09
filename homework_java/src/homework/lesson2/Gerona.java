@@ -1,4 +1,4 @@
-package homework_lesson2;
+package homework.lesson2;
 
 public class Gerona {
 	public static void main(String[] args) {

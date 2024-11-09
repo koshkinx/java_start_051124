@@ -7,7 +7,7 @@
         <listEntry value="1"/>
     </listAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="homework_lesson2.Gerona"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="homework.lesson2.Gerona"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value=""/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="homework_java"/>
 </launchConfiguration>
