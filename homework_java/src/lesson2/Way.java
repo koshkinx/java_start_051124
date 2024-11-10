@@ -1,4 +1,4 @@
-package homework.lesson2;
+package lesson2;
 
 public class Way {
     public static void main(String[] args) {
