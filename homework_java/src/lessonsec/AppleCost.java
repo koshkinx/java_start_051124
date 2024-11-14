@@ -1,4 +1,4 @@
-package lesson2;
+package lessonsec;
 
 public class AppleCost {
     public static void main(String[] args) {

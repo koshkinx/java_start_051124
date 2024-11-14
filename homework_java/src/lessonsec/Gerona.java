@@ -1,4 +1,4 @@
-package lesson2;
+package lessonsec;
 
 public class Gerona {
 	public static void main(String[] args) {
